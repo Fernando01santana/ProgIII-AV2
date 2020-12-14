@@ -1,0 +1,14 @@
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/application/CustomersApplication.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/infrastructure/UsersDB.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/web/components/AuthSession.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/domain/customer/CustomersService.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/controllers/SalesServlets.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/domain/customer/Customer.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/controllers/AuthController.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/infrastructure/CustomersDB.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/exceptions/BusinessException.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/controllers/ProductsServlet.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/domain/user/User.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/web/intercepts/AuthIntercepts.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/controllers/CustomersController.java
+/home/felicity/Documents/faculdade/programacao-III/sales-app/src/main/java/br/edu/unijuazeiro/progiii/sales/web/annotations/Auth.java
